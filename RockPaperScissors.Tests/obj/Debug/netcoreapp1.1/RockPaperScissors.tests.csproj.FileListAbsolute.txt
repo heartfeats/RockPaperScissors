@@ -1,0 +1,15 @@
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/Debug/netcoreapp1.1/RockPaperScissors.tests.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/Debug/netcoreapp1.1/RockPaperScissors.tests.AssemblyInfoInputs.cache
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/Debug/netcoreapp1.1/RockPaperScissors.tests.AssemblyInfo.cs
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.tests/bin/Debug/netcoreapp1.1/RockPaperScissors.tests.deps.json
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.tests/bin/Debug/netcoreapp1.1/RockPaperScissors.tests.runtimeconfig.json
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.tests/bin/Debug/netcoreapp1.1/RockPaperScissors.tests.runtimeconfig.dev.json
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/RockPaperScissors.tests.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/RockPaperScissors.tests.pdb
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/RockPaperScissors.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/bin/Debug/netcoreapp1.1/RockPaperScissors.pdb
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/Debug/netcoreapp1.1/RockPaperScissors.tests.dll
+/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/Debug/netcoreapp1.1/RockPaperScissors.tests.pdb

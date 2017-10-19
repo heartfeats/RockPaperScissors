@@ -6,15 +6,19 @@ using RockPaperScissors.Models;
 namespace RockPaperScissors.Tests {
 
     [TestClass]
-    public class PlayerChoices {
-
+    public class RockPaperScissorsTests {
         [TestMethod]
         public void PlayerOneWins () {
             // Arrange
+            PlayerChoices newPlayerChoices = new PlayerChoices ("rock", "scissors");
+
+            var output = "Player One Wins!";
 
             // Act
+            string result = newPlayerChoices.ComparePlayerChoices ();
 
             // Assert
+            Assert.AreEqual (result, output);
         }
     }
 }
