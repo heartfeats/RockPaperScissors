@@ -1,7 +1,35 @@
+<!-- @{
+  Layout = "_Layout";
+}
+
+<form action="/PlayerOne">
+<button type="submit" class="btn">Start Game!</button>
+</form> -->
+
 @{
   Layout = "_Layout";
 }
 
-<div class="container">
-  <h1>Hello world!</h1>
-</div>
+<h1>Rock Paper Scissors</h1>
+<br>
+</form><br>
+<br>
+<h3>Player Choices:</h3>
+<form action="/Result" method="post">
+    <p>Player One</p>
+    <select class="form-control" name="inputOne">
+        <option disabled selected value> -- select an option -- </option>
+        <option>rock</option>
+        <option>paper</option>
+        <option>scissors</option>
+    </select>
+    <br>
+    <p>Player Two</p>
+    <select class="form-control" name="inputTwo">
+        <option disabled selected value> -- select an option -- </option>
+        <option>rock</option>
+        <option>paper</option>
+        <option>scissors</option>
+    </select>
+    <br>
+    <button type="submit" class="btn">Submit</button>

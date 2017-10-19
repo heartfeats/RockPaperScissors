@@ -10650,9 +10650,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.tests/RockPaperScissors.tests.csproj",
+      "projectUniqueName": "/Users/home/Desktop/RockPaperScissors.Solution/rockpaperscissors.tests/RockPaperScissors.tests.csproj",
       "projectName": "RockPaperScissors.tests",
-      "projectPath": "/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.tests/RockPaperScissors.tests.csproj",
+      "projectPath": "/Users/home/Desktop/RockPaperScissors.Solution/rockpaperscissors.tests/RockPaperScissors.tests.csproj",
       "packagesPath": "/Users/home/.nuget/packages/",
       "outputPath": "/Users/home/Desktop/RockPaperScissors.Solution/RockPaperScissors.Tests/obj/",
       "projectStyle": "PackageReference",
